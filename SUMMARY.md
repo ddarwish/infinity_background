@@ -65,6 +65,8 @@
     * [Глава 5:ALIVE навсегда](narrative_event/tagline/tagline-ch5.md)
     * [Глава 6:Никого нет дома](narrative_event/tagline/tagline-ch6.md)
   * [B4CKD00R кризис](/challenge/backdoor.md)
+  * [Легендарная битва Меровингов](/narrative_event/merovingian_epic/README.md)
+    * [Бой группы де Гелль](/narrative_event/merovingian_epic/me_ch0.md)
 * [\[Часть 1. Воссозданные\]](chast-1-vossozdannie.md)
   * [Avicenna](avicenna.md)
   * [Joan of Arc](joan_of_arc.md)
@@ -83,7 +85,7 @@
     * [Thrasymedes](part2/thrasymedes.md)
   * \[Панокеания\]
     * [Тони Макаяна](panoceania/tony.md)
-  * [Номады]
+  * \[Номады\]
     * [Zoe & Pi-Well](nomads/zoe-pi-well.md)
 * [\[Часть 3. Особо важные персоны\]](hvt/README.md)
   * [ALEPH High Functionary](hvt/aleph.md)
@@ -97,7 +99,6 @@
   * [Cypher](mercenary/cypher.md)
   * [Miyamoto Mushashi](miyamoto_musashi.md)
   * [Switch](mercenary/switch.md)
-
 
 
 
